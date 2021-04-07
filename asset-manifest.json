@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Calculator-App/static/css/main.8462d0df.chunk.css",
+    "main.js": "/Calculator-App/static/js/main.6e06a365.chunk.js",
+    "main.js.map": "/Calculator-App/static/js/main.6e06a365.chunk.js.map",
+    "runtime-main.js": "/Calculator-App/static/js/runtime-main.3dcec2c4.js",
+    "runtime-main.js.map": "/Calculator-App/static/js/runtime-main.3dcec2c4.js.map",
+    "static/css/2.86980bd8.chunk.css": "/Calculator-App/static/css/2.86980bd8.chunk.css",
+    "static/js/2.5fbecbc3.chunk.js": "/Calculator-App/static/js/2.5fbecbc3.chunk.js",
+    "static/js/2.5fbecbc3.chunk.js.map": "/Calculator-App/static/js/2.5fbecbc3.chunk.js.map",
+    "index.html": "/Calculator-App/index.html",
+    "static/css/2.86980bd8.chunk.css.map": "/Calculator-App/static/css/2.86980bd8.chunk.css.map",
+    "static/css/main.8462d0df.chunk.css.map": "/Calculator-App/static/css/main.8462d0df.chunk.css.map",
+    "static/js/2.5fbecbc3.chunk.js.LICENSE.txt": "/Calculator-App/static/js/2.5fbecbc3.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Calculator-App/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dcec2c4.js",
+    "static/css/2.86980bd8.chunk.css",
+    "static/js/2.5fbecbc3.chunk.js",
+    "static/css/main.8462d0df.chunk.css",
+    "static/js/main.6e06a365.chunk.js"
+  ]
+}
